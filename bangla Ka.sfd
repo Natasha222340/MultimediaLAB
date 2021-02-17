@@ -1,0 +1,123 @@
+SplineFontDB: 3.2
+FontName: Untitled2
+FullName: Untitled2
+FamilyName: Untitled2
+Weight: Regular
+Copyright: Copyright (c) 2021, Asus
+UComments: "2021-2-15: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 981 948812017 10593]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613375474
+ModificationTime: 1613577872
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 16 4
+Grid
+323 522 m 25
+ 337 298 l 1049
+335 522 m 25
+ 335 522 523 652 521 652 c 0
+ 519 652 408 573 335 522 c 25
+521 652 m 1
+ 529 58 l 25
+ 521 652 l 1
+EndSplineSet
+BeginChars: 65536 2
+
+StartChar: uni0985
+Encoding: 0 2437 0
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+559.640625 522 m 1
+ 591 642 l 1
+ 696 564 l 1
+ 744 222 l 1
+ 494 32 l 1
+ 282 220 l 25
+ 200 532 l 1
+ 198.507330678 545.189504659 272.372549664 461.361908621 258 574 c 0
+ 250.900963504 629.635356304 337.814155763 246.021017125 336 244 c 1
+ 498 94 l 1
+ 498 94 l 1
+ 682 248 l 1
+ 644 524 l 1
+ 644 524 595 570 559.640625 522 c 1
+862 598 m 1
+ 903 644 l 1
+ 888 26 l 1
+ 674 170 l 1
+ 744 172 l 1
+ 840 140 l 1
+ 862 598 l 1
+92 692 m 25
+ 930 698 l 25
+ 930 638 l 25
+ 100 636 l 25
+ 92 692 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni0995
+Encoding: 1 2453 1
+Width: 1000
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+209 712 m 1
+ 829 711 l 1
+ 845 658 l 1
+ 630.333007812 637.901367188 419.666992188 645.013671875 205 662 c 1
+ 209 712 l 1
+371 489 m 1
+ 377 321 l 1
+ 475 249 l 1
+ 475.362304688 240.827148438 465.13671875 470.376953125 461 563 c 1
+ 371 489 l 1
+639 561 m 0
+ 526.613960412 422.932708224 521.232421875 651.606445312 521 652 c 1
+ 520.21134519 659.984187069 665.411725175 593.447049291 639 561 c 0
+521 652 m 1
+ 529 58 l 1
+ 529 58 467.000000001 -28.0000000003 507.93467297 80 c 0
+ 548.869345939 188 317 307 317 307 c 1
+ 309 495 l 1
+ 521 652 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
